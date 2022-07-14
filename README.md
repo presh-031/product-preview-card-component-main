@@ -43,6 +43,6 @@ The plan is to continue working on more projects that emphasize responsiveness, 
 
 ## Author
 
-- GitHub - [Add your name here](https://github.com/presh-031)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/presh-031)
+- GitHub - [presh-031](https://github.com/presh-031)
+- Frontend Mentor - [@presh-031](https://www.frontendmentor.io/profile/presh-031)
 - Twitter - [@presh-031](https://twitter.com/Presh_031)
